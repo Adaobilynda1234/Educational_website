@@ -2,7 +2,7 @@ import React, { Fragment } from "react";
 import Header from "../Header/Header";
 import HeroSection from "../Hero-section/HeroSection";
 import Company from "../Company section/Company";
-import Offer from "../Offer/Offer";
+import Offer from "../Offers/Offer";
 import Courses from "../Course Section/Courses";
 import AboutUs from "../components/AboutUs";
 import Update from "../Getupdates/Update";
