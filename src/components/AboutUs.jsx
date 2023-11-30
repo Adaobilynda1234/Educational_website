@@ -1,5 +1,5 @@
 import React from "react";
-import "./aboutUs.css";
+import "./AboutUs.css";
 import { Container, Row, Col } from "reactstrap";
 import aboutImg from "../assets/images/aboutUs_img.png";
 
