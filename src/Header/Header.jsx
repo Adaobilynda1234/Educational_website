@@ -6,15 +6,15 @@ import logo from "../../src/assets/images/logo.png";
 const navLinks = [
   {
     dispaly: "Home",
-    url: "#",
+    url: "../Home.jsx",
   },
   {
     dispaly: "Courses",
-    url: "#",
+    url: "../course Section/Courses.jsx",
   },
   {
     dispaly: "About",
-    url: "#",
+    url: "../components/AboutUs.jsx",
   },
 ];
 
